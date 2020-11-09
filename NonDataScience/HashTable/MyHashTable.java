@@ -1,9 +1,5 @@
 /**
- * 17-683 Data Structures for Application Programmers.
- * Homework Assignment 4: HashTable Implementation with linear probing
- *
- * Andrew ID: mstrasse
- * @author Molly Strasser
+ * HashTable Implementation with linear probing
  */
 public class MyHashTable implements MyHTInterface {
 
